@@ -34,12 +34,22 @@ This project extends the classic Arkanoid game by adding several new features an
 - **Animation and Event Handling**: Learned to implement and manage various animations and user interactions in a game setting.
 - **Level Management**: Acquired knowledge on managing multiple game levels, including transitioning between levels and preserving game state.
 
-## Links to Tasks
+## Links to Game Assignments
 
-- [Task 1: Reorganization and Pause Feature](#)
-- [Task 2: Multiple Levels](#)
-- [Task 3: End Screen](#)
-- [Task 4: Further Reorganization](#)
+Explore the different assignments that are part of the Arkanoid game development:
+
+- **[Assignment 2: Objects, Geometry, Abstract Art, and Bouncing Balls](https://github.com/ariecattan/biuoop2022/wiki/Assignment-2#objects-geometry-abstract-art-and-bouncing-balls)**
+  - Covers the foundational aspects of game objects, geometric shapes, abstract art integration, and basic bouncing ball mechanics.
+
+- **[Assignment 3: Collision Detection, Paddle, and Blocks](https://github.com/ariecattan/biuoop2022/wiki/Assignment-3)**
+  - Focuses on implementing collision detection, paddle functionality, and block interactions.
+
+- **[Assignment 5: Block Removal, Lives, and Scores](https://github.com/ariecattan/biuoop2022/wiki/Assignment-5)**
+  - Enhances the game with block removal mechanics, player lives management, and scoring systems.
+
+- **[Assignment 6: New Screens and Multiple Levels](https://github.com/ariecattan/biuoop2022/wiki/Assignment-6)**
+  - Introduces new game screens and supports multiple levels to increase gameplay depth and complexity.
+
 
 ## Running the Project
 
